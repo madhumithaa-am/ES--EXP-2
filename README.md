@@ -113,6 +113,8 @@ delay_ms(50);
 ## OUTPUT
 <img width="789" height="421" alt="image" src="https://github.com/user-attachments/assets/d8fd13d4-8fc4-4777-a444-f34a010a4e8e" />
 <img width="693" height="148" alt="image" src="https://github.com/user-attachments/assets/58e43282-c1b5-4d8a-a2a6-9216695b499c" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/27f8a2d1-f7a5-4eb8-bf3f-914aea16bf45" />
+
 
 
 ## RESULT: 
